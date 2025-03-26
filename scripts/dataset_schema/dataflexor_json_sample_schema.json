@@ -1,0 +1,20 @@
+{
+    "id": "string",
+    "type": "string",
+    "name": "string",
+    "ppu": "string",
+    "batters": {
+        "batter": [
+            {
+                "id": "string",
+                "type": "string"
+            }
+        ]
+    },
+    "topping": [
+        {
+            "id": "string",
+            "type": "string"
+        }
+    ]
+}

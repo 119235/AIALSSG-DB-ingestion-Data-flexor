@@ -1,0 +1,42 @@
+[
+    {
+        "column_name": "Column_1",
+        "column_data_type": "string",
+        "data_format": ""
+    },
+    {
+        "column_name": "Column_2",
+        "column_data_type": "integer",
+        "data_format": ""
+    },
+    {
+        "column_name": "Column_3",
+        "column_data_type": "long",
+        "data_format": ""
+    },
+    {
+        "column_name": "Column_4",
+        "column_data_type": "float",
+        "data_format": ""
+    },
+    {
+        "column_name": "Column_5",
+        "column_data_type": "decimal",
+        "data_format": "20,3"
+    },
+    {
+        "column_name": "Column_6",
+        "column_data_type": "double",
+        "data_format": ""
+    },
+    {
+        "column_name": "Column_7",
+        "column_data_type": "date",
+        "data_format": "YYYY-MM-DD"
+    },
+    {
+        "column_name": "Column_8",
+        "column_data_type": "timestamp",
+        "data_format": ""
+    }
+]

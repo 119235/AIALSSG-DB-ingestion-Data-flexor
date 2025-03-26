@@ -1,0 +1,18 @@
+{
+    "dataset_name": "medscape_DataFlexor_hist",
+    "active": "Y",
+    "processed_location_bucket": "PROCESSED_S3_BUCKET",
+    "processed_location_prefix": "mdh/dw/dataflexor/medscape_DataFlexor_hist/",
+    "processed_schema": "PROCESSED_SCHEMA",
+    "publish_flag": "Y",
+    "processed_table": "medscape_DataFlexor_hist",
+    "publish_location_bucket": "PROCESSED_S3_BUCKET",
+    "publish_location_prefix": "mdh/publish/dataflexor/medscape_DataFlexor_hist/",
+    "publish_schema": "PUBLISH_SCHEMA",
+    "publish_table": "medscape_DataFlexor_hist",
+    "archive": "N",
+    "archive_location_bucket": "SANDBOX_S3_BUCKET",
+    "archive_location_prefix": "mdh/dw/archive/dataflexor/",
+    "sql_script_path": "script/sql_scripts/medscape_DataFlexor_hist.sql",
+    "dqm_config_s3_key": ""
+}

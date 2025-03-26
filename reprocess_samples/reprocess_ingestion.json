@@ -1,0 +1,12 @@
+{
+    "20240518": {
+        "pld_bulletin_healthcare": {
+            "file_name": [
+                "Trodelvy-HRHER2-HCP-202301_HCP-ZIP_V1.csv"
+            ]
+        },
+		"pld_bulletin_healthcare_hist": {
+			"execution_cycle_id": "202401011214550001"
+		}
+    }
+}

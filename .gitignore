@@ -1,0 +1,5 @@
+# IntelliJ Idea IDE files
+.idea/*
+
+# Mac OS Hidden files
+.DS_Store

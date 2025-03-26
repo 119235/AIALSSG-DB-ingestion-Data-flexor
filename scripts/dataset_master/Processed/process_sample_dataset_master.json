@@ -1,0 +1,19 @@
+{
+    "dataset_name": "mdh_mkt_src_xref_dw_DataFlexor",
+    "active": "Y",
+    "processed_location_bucket": "PROCESSED_S3_BUCKET",
+    "processed_location_prefix": "mdh/dw/dataflexor/mdh_mkt_src_xref_dw_DataFlexor/",
+    "processed_schema": "PROCESSED_SCHEMA",
+    "publish_flag": "Y",
+    "processed_table": "mdh_mkt_src_xref_dw_DataFlexor",
+    "publish_location_bucket": "PROCESSED_S3_BUCKET",
+    "publish_location_prefix": "mdh/publish/dataflexor/mdh_mkt_src_xref_dw_DataFlexor/",
+    "publish_schema": "PUBLISH_SCHEMA",
+    "publish_table": "mdh_mkt_src_xref_dw_DataFlexor",
+    "archive": "N",
+    "archive_location_bucket": "SANDBOX_S3_BUCKET",
+    "archive_location_prefix": "mdh/dw/archive/dataflexor/",
+    "dqm_config_s3_key": "",
+    "partition_values_key": "partition_values/partition_values_key.json",
+	"reprocess_master_file_s3_key": "reprocess/iw_reprocess_ingestion.json"
+}
